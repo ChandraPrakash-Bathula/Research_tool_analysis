@@ -1,0 +1,177 @@
+Section,Category,Example
+Technology,Access software,Citrix cloud computing software
+Technology,Access software,Mac HelpMate
+Technology,Accounting software,Billing software
+Technology,Accounting software,Tax software
+Technology,Analytical or scientific software,IBM SPSS Statistics
+Technology,Analytical or scientific software,SAS
+Technology,Analytical or scientific software,StataCorp Stata
+Technology,Analytical or scientific software,The MathWorks MATLAB
+Technology,Application server software,Microservices Architecture
+Technology,Application server software,Microsoft Windows Server
+Technology,Application server software,Oracle WebLogic Server
+Technology,Application server software,Progress OpenEdge Application Server
+Technology,Application server software,Red Hat WildFly
+Technology,Backup or archival software,Veritas NetBackup
+Technology,Business intelligence and data analysis software,IBM Cognos Impromptu
+Technology,Business intelligence and data analysis software,MicroStrategy
+Technology,Business intelligence and data analysis software,Oracle Business Intelligence Enterprise Edition
+Technology,Business intelligence and data analysis software,Qlik Tech QlikView
+Technology,Business intelligence and data analysis software,Tableau
+Technology,Calendar and scheduling software,Microsoft Entourage
+Technology,Cloud-based data access and sharing software,Microsoft SharePoint
+Technology,Cloud-based data access and sharing software,Software as a service SaaS
+Technology,Cloud-based management software,IBM WebSphere
+Technology,Cloud-based management software,Splunk Enterprise
+Technology,Cloud-based protection or security software,SolarWinds
+Technology,Clustering software,VMware
+Technology,Communications server software,IBM Domino
+Technology,Compliance software,Pilgrim Quality Solutions SmartSolve
+Technology,Configuration management software,Perforce Helix software
+Technology,Configuration management software,Puppet
+Technology,Content workflow software,Atlassian JIRA
+Technology,Customer relationship management CRM software,ACT! Premium
+Technology,Customer relationship management CRM software,Blackbaud The Raiser's Edge
+Technology,Customer relationship management CRM software,Microsoft Business Contact Manager
+Technology,Customer relationship management CRM software,Microsoft Dynamics CRM
+Technology,Customer relationship management CRM software,Oracle Eloqua
+Technology,Customer relationship management CRM software,Oracle Siebel Server Sync
+Technology,Customer relationship management CRM software,Performance Solutions Technology ManagePro
+Technology,Data base management system software,Alpha Four
+Technology,Data base management system software,Apache Cassandra
+Technology,Data base management system software,Apache Hadoop
+Technology,Data base management system software,Apache Pig
+Technology,Data base management system software,Apache Solr
+Technology,Data base management system software,MongoDB
+Technology,Data base management system software,NoSQL
+Technology,Data base management system software,Oracle PL/SQL
+Technology,Data base management system software,Progress OpenEdge Fathom Replication software
+Technology,Data base management system software,Relational database management software
+Technology,Data base management system software,Teradata Database
+Technology,Data base reporting software,SAP Crystal Reports
+Technology,Data base user interface and query software,Amazon Web Services AWS software
+Technology,Data base user interface and query software,Blackboard software
+Technology,Data base user interface and query software,FileMaker Pro
+Technology,Data base user interface and query software,Langlais Computer Consultants CalMan
+Technology,Data base user interface and query software,Microsoft Access
+Technology,Data base user interface and query software,Microsoft SQL Server
+Technology,Data base user interface and query software,MySQL
+Technology,Data base user interface and query software,Oracle Database
+Technology,Data base user interface and query software,Structured query language SQL
+Technology,Data mining software,Google Analytics
+Technology,Desktop publishing software,Adobe Distiller
+Technology,Development environment software,Apache Maven
+Technology,Development environment software,C
+Technology,Development environment software,Canu
+Technology,Development environment software,Common business oriented language COBOL
+Technology,Development environment software,Eclipse IDE
+Technology,Development environment software,Integrated development environment IDE software
+Technology,Development environment software,K2 Business Process Automation
+Technology,Development environment software,Microsoft .NET Framework
+Technology,Development environment software,Microsoft Azure software
+Technology,Development environment software,Microsoft Visual Basic
+Technology,Development environment software,Microsoft Visual Basic Scripting Edition VBScript
+Technology,Development environment software,Microsoft Visual Studio
+Technology,Development environment software,Progress OpenEdge ABL
+Technology,Electronic mail software,Microsoft Exchange
+Technology,Electronic mail software,Microsoft Outlook
+Technology,Electronic mail software,Pegasus software
+Technology,Electronic mail software,QUALCOMM Eudora
+Technology,Enterprise application integration software,Extensible markup language XML
+Technology,Enterprise application integration software,IBM InfoSphere DataStage
+Technology,Enterprise application integration software,Oracle Fusion Middleware
+Technology,Enterprise application integration software,Progress Sonic ESB
+Technology,Enterprise resource planning ERP software,Infor ERP Baan
+Technology,Enterprise resource planning ERP software,Management information systems MIS
+Technology,Enterprise resource planning ERP software,Microsoft Dynamics
+Technology,Enterprise resource planning ERP software,Microsoft Dynamics AX
+Technology,Enterprise resource planning ERP software,Microsoft Dynamics GP
+Technology,Enterprise resource planning ERP software,Microsoft Dynamics NAV
+Technology,Enterprise resource planning ERP software,NetSuite ERP
+Technology,Enterprise resource planning ERP software,Oracle E-Business Suite
+Technology,Enterprise resource planning ERP software,Oracle Fusion Applications
+Technology,Enterprise resource planning ERP software,Oracle Hyperion
+Technology,Enterprise resource planning ERP software,Oracle JD Edwards EnterpriseOne
+Technology,Enterprise resource planning ERP software,Oracle PeopleSoft
+Technology,Enterprise resource planning ERP software,SAP Business Objects
+Technology,Enterprise resource planning ERP software,SAP software
+Technology,Enterprise system management software,IBM Power Systems software
+Technology,Filesystem software,File transfer protocol FTP software
+Technology,Filesystem software,Samba
+Technology,Filesystem software,Symantec Veritas File System
+Technology,Filesystem software,Symantec Veritas Volume Manager
+Technology,Financial analysis software,Oracle E-Business Suite Financials
+Technology,Graphical user interface development software,TKSoftware RCM software
+Technology,Helpdesk or call center software,Help desk software
+Technology,Human resources software,Human resource management software HRMS
+Technology,Internet browser software,Microsoft Internet Explorer
+Technology,Internet browser software,Netscape Navigator
+Technology,LAN software,Local area network LAN software
+Technology,Metadata management software,Quest Erwin Data Modeler
+Technology,Network conferencing software,Microsoft Office SharePoint Server MOSS
+Technology,Network connectivity terminal emulation software,Telnet programs software
+Technology,Network connectivity terminal emulation software,Zephyr EXTRA! Terminal Emulation
+Technology,Network monitoring software,Dartware InterMapper
+Technology,Network monitoring software,Nagios
+Technology,Network security and virtual private network VPN equipment software,Firewall software
+Technology,Network security and virtual private network VPN equipment software,Virtual private networking VPN software
+Technology,Object or component oriented development software,Advanced business application programming ABAP
+Technology,Object or component oriented development software,Borland Paradox
+Technology,Object or component oriented development software,C#
+Technology,Object or component oriented development software,C++
+Technology,Object or component oriented development software,Embarcadero Delphi
+Technology,Object or component oriented development software,Microsoft SQL Server Reporting Services SSRS
+Technology,Object or component oriented development software,Objective C
+Technology,Object or component oriented development software,Oracle Java
+Technology,Object or component oriented development software,Perl
+Technology,Object or component oriented development software,Python
+Technology,Object or component oriented development software,R
+Technology,Object oriented data base management software,Microsoft Visual FoxPro
+Technology,Object oriented data base management software,PostgreSQL
+Technology,Office suite software,Corel WordPerfect Office Suite
+Technology,Office suite software,Microsoft Office software
+Technology,Operating system software,Apple macOS
+Technology,Operating system software,Hewlett Packard HP-UX
+Technology,Operating system software,KornShell
+Technology,Operating system software,Linux
+Technology,Operating system software,Oracle Solaris
+Technology,Operating system software,Red Hat Enterprise Linux
+Technology,Operating system software,Shell script
+Technology,Operating system software,UNIX
+Technology,Platform interconnectivity software,IBM iSeries Access
+Technology,Portal server software,Apache HTTP Server
+Technology,Portal server software,Oracle iPlanet Web Server
+Technology,Presentation software,Apple iWork Keynote
+Technology,Presentation software,Microsoft PowerPoint
+Technology,Process mapping and design software,Microsoft Visio
+Technology,Project management software,Microsoft Project
+Technology,Project management software,Oracle Primavera Systems
+Technology,Requirements analysis and system architecture software,Unified modeling language UML
+Technology,Software defined networking/ virtualization software,Cisco Systems WAN Manager
+Technology,Spreadsheet software,Apple iWork Numbers
+Technology,Spreadsheet software,Microsoft Excel
+Technology,Transaction security and virus protection software,McAfee
+Technology,Transaction security and virus protection software,NortonLifeLock cybersecurity software
+Technology,Transaction server software,Customer information control system CICS
+Technology,Video creation and editing software,Apple Final Cut Pro
+Technology,Video creation and editing software,Apple iMovie
+Technology,Web page creation and editing software,Microsoft FrontPage
+Technology,Web platform development software,Adobe Flex
+Technology,Web platform development software,Apache Tomcat
+Technology,Web platform development software,Backbone.js
+Technology,Web platform development software,Drupal
+Technology,Web platform development software,Dynamic hypertext markup language DHTML
+Technology,Web platform development software,Enterprise JavaBeans
+Technology,Web platform development software,Extensible hypertext markup language XHTML
+Technology,Web platform development software,Hypertext markup language HTML
+Technology,Web platform development software,JavaScript
+Technology,Web platform development software,LAMP Stack
+Technology,Web platform development software,Microsoft Active Server Pages ASP
+Technology,Web platform development software,Node.js
+Technology,Web platform development software,PHP
+Technology,Web platform development software,Progress WebSpeed Workshop
+Technology,Web platform development software,Ruby on Rails
+Technology,Web platform development software,Spring Framework
+Technology,Wireless software,Mobile wireless network infrastructure software
+Technology,Word processing software,Apple iWork Pages
+Technology,Word processing software,Microsoft Word

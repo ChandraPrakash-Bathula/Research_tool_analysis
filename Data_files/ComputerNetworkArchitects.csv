@@ -1,0 +1,281 @@
+Section,Category,Example
+Technology,Access software,Access management software
+Technology,Access software,Citrix cloud computing software
+Technology,Access software,Remote access software
+Technology,Administration software,Aruba Networks AirWave
+Technology,Administration software,Asset management administration software
+Technology,Administration software,Cisco Systems CiscoWorks
+Technology,Administration software,Cisco Systems CiscoWorks LAN Management Solution
+Technology,Administration software,Cisco Systems Wireless Control System WCS
+Technology,Administration software,Element management software
+Technology,Administration software,Infoblox security and networking software
+Technology,Administration software,Lucent VitalSuite
+Technology,Administration software,NetIQ
+Technology,Administration software,Netreo OmniCenter
+Technology,Administration software,Network documentation software
+Technology,Administration software,Riverbed Technology
+Technology,Administration software,Simple network management protocol SNMP software
+Technology,Analytical or scientific software,Discrete event simulation software
+Technology,Analytical or scientific software,Minitab
+Technology,Analytical or scientific software,Root cause analysis software
+Technology,Analytical or scientific software,The MathWorks MATLAB
+Technology,Application server software,Citrix XenApp
+Technology,Application server software,Docker
+Technology,Application server software,GitHub
+Technology,Application server software,Microsoft Windows Server
+Technology,Application server software,Oracle WebLogic Server
+Technology,Application server software,Red Hat OpenShift
+Technology,Application server software,Red Hat WildFly
+Technology,Application server software,Spring Boot
+Technology,Authentication server software,Microsoft Forefront Identify Manager
+Technology,Backup or archival software,Computer Associates ArcServ Backup
+Technology,Backup or archival software,System and data disaster recovery software
+Technology,Backup or archival software,Veritas NetBackup
+Technology,Bridge software,Network bridge software
+Technology,Business intelligence and data analysis software,Apache Spark
+Technology,Business intelligence and data analysis software,IBM Cognos Impromptu
+Technology,Business intelligence and data analysis software,MicroStrategy
+Technology,Business intelligence and data analysis software,Oracle Business Intelligence Enterprise Edition
+Technology,Business intelligence and data analysis software,Qlik Tech QlikView
+Technology,Business intelligence and data analysis software,Tableau
+Technology,Cloud-based data access and sharing software,Microsoft SharePoint
+Technology,Cloud-based management software,Amazon Web Services AWS CloudFormation
+Technology,Cloud-based management software,IBM WebSphere
+Technology,Cloud-based management software,IBM WebSphere MQ
+Technology,Cloud-based management software,Splunk Enterprise
+Technology,Cloud-based protection or security software,SolarWinds
+Technology,Clustering software,VMware
+Technology,Communications server software,Email management software
+Technology,Communications server software,IBM Domino
+Technology,Computer aided design CAD software,Autodesk AutoCAD
+Technology,Computer aided design CAD software,Autodesk Revit
+Technology,Computer aided design CAD software,Dassault Systemes CATIA
+Technology,Computer aided design CAD software,Dassault Systemes SolidWorks
+Technology,Computer based training software,
+Technology,Configuration management software,Application management software
+Technology,Configuration management software,Automated installation software
+Technology,Configuration management software,Chef
+Technology,Configuration management software,Logical partition LPAR software
+Technology,Configuration management software,Patch and update management software
+Technology,Configuration management software,Perforce Helix software
+Technology,Configuration management software,Puppet
+Technology,Configuration management software,Software distribution software
+Technology,Content workflow software,Atlassian JIRA
+Technology,Data base management system software,Amazon DynamoDB
+Technology,Data base management system software,Apache Cassandra
+Technology,Data base management system software,Apache Hadoop
+Technology,Data base management system software,Apache Hive
+Technology,Data base management system software,Apache Pig
+Technology,Data base management system software,Apache Solr
+Technology,Data base management system software,Elasticsearch
+Technology,Data base management system software,MongoDB
+Technology,Data base management system software,MySQL
+Technology,Data base management system software,NoSQL
+Technology,Data base management system software,Oracle PL/SQL
+Technology,Data base management system software,Relational database management software
+Technology,Data base management system software,Teradata Database
+Technology,Data base reporting software,Microsoft SQL Server Reporting Services SSRS
+Technology,Data base reporting software,Network reporting software
+Technology,Data base user interface and query software,Amazon Elastic Compute Cloud EC2
+Technology,Data base user interface and query software,Amazon Redshift
+Technology,Data base user interface and query software,Amazon Web Services AWS software
+Technology,Data base user interface and query software,Microsoft Access
+Technology,Data base user interface and query software,Microsoft SQL Server
+Technology,Data base user interface and query software,Oracle Database
+Technology,Data base user interface and query software,Oracle JDBC
+Technology,Data base user interface and query software,Structured query language SQL
+Technology,Data base user interface and query software,Transact-SQL
+Technology,Desktop communications software,BroadSoft BroadWorks
+Technology,Development environment software,Adobe ActionScript
+Technology,Development environment software,Apache Ant
+Technology,Development environment software,Apache Kafka
+Technology,Development environment software,Apache Maven
+Technology,Development environment software,C
+Technology,Development environment software,Common business oriented language COBOL
+Technology,Development environment software,Eclipse IDE
+Technology,Development environment software,Go
+Technology,Development environment software,Integrated development environment IDE software
+Technology,Development environment software,Microsoft .NET Framework
+Technology,Development environment software,Microsoft Azure software
+Technology,Development environment software,Microsoft PowerShell
+Technology,Development environment software,Microsoft Visual Basic
+Technology,Development environment software,Microsoft Visual Basic Scripting Edition VBScript
+Technology,Development environment software,Microsoft Visual Studio
+Technology,Development environment software,National Instruments LabVIEW
+Technology,Development environment software,Oracle Java Enterprise Edition EE
+Technology,Development environment software,Ruby
+Technology,Development environment software,Systems and applications migration software
+Technology,Development environment software,Verilog
+Technology,Electronic mail software,IBM Notes
+Technology,Electronic mail software,Microsoft Exchange
+Technology,Enterprise application integration software,Atlassian Bamboo
+Technology,Enterprise application integration software,Extensible markup language XML
+Technology,Enterprise application integration software,IBM InfoSphere DataStage
+Technology,Enterprise application integration software,Oracle Fusion Middleware
+Technology,Enterprise resource planning ERP software,Microsoft Dynamics
+Technology,Enterprise resource planning ERP software,Oracle Fusion Applications
+Technology,Enterprise resource planning ERP software,SAP software
+Technology,Enterprise system management software,IBM Power Systems software
+Technology,Expert system software,Ansible software
+Technology,File versioning software,Apache Subversion SVN
+Technology,File versioning software,Git
+Technology,Financial analysis software,Oracle E-Business Suite Financials
+Technology,Geographic information system,ESRI ArcGIS software
+Technology,Graphics or photo imaging software,Trimble SketchUp Pro
+Technology,Helpdesk or call center software,Help desk software
+Technology,Helpdesk or call center software,Ticket information tracking software
+Technology,Human resources software,Human resource management software HRMS
+Technology,Industrial control software,Supervisory control and data acquisition SCADA software
+Technology,Instant messaging software,Blink
+Technology,Internet browser software,Web browser software
+Technology,Internet directory services software,Domain name system DNS
+Technology,Internet directory services software,Microsoft Active Directory
+Technology,Internet protocol IP multimedia subsystem software,Multiprotocol Label Switching MPLS
+Technology,Internet protocol IP multimedia subsystem software,Open Shortest Path First OSPF
+Technology,Internet protocol IP multimedia subsystem software,Session Initiation Protocol SIP
+Technology,Internet protocol IP multimedia subsystem software,Voice over internet protocol VoIP system software
+Technology,LAN software,Local area network LAN software
+Technology,Metadata management software,Quest Erwin Data Modeler
+Technology,Network monitoring software,AirMagnet Enterprise
+Technology,Network monitoring software,Compaq Insight Manager
+Technology,Network monitoring software,Dynatrace
+Technology,Network monitoring software,Ethereal
+Technology,Network monitoring software,Ipswitch WhatsUp Gold
+Technology,Network monitoring software,Micro Focus OpenView
+Technology,Network monitoring software,Multi-router traffic grapher MRTG software
+Technology,Network monitoring software,Nagios
+Technology,Network monitoring software,NetScout InfinitiStream Console
+Technology,Network monitoring software,Network and application load and performance testing software
+Technology,Network monitoring software,Network and component performance analysis software
+Technology,Network monitoring software,Network availability monitoring software
+Technology,Network monitoring software,Network intrusion prevention systems NIPS
+Technology,Network monitoring software,"Network modeling, mapping, and analysis software"
+Technology,Network monitoring software,Network traffic flow monitoring and analysis software
+Technology,Network monitoring software,Network traffic probe software
+Technology,Network monitoring software,Online traffic calculator software
+Technology,Network monitoring software,Packet analysis software
+Technology,Network monitoring software,Packet tracing software
+Technology,Network monitoring software,Snort
+Technology,Network monitoring software,Symantec Intruder Alert
+Technology,Network monitoring software,Tcpdump
+Technology,Network monitoring software,Wireshark
+Technology,Network operating system enhancement software,EMC Smarts Network Protocol Manager
+Technology,Network operating system enhancement software,Infoblox NetMRI
+Technology,Network operating system enhancement software,"Network, server and operating system optimization software"
+Technology,Network operating system enhancement software,OPNET APMXpert
+Technology,Network operating system enhancement software,Silver Peak
+Technology,Network operating system enhancement software,Wide area network WAN optimization software
+Technology,Network security and virtual private network VPN equipment software,Content filter software
+Technology,Network security and virtual private network VPN equipment software,Firewall software
+Technology,Network security and virtual private network VPN equipment software,Network intrusion detection software
+Technology,Network security or virtual private network VPN management software,Computer intrusion detection systems
+Technology,Network security or virtual private network VPN management software,Internet Protocol Security IPSEC
+Technology,Network security or virtual private network VPN management software,Intrusion prevention system IPS
+Technology,Network security or virtual private network VPN management software,LogRhythm
+Technology,Network security or virtual private network VPN management software,Microsoft Forefront Threat Management Gateway
+Technology,Network security or virtual private network VPN management software,Network and system vulnerability assessment software
+Technology,Network security or virtual private network VPN management software,Risk assessment software
+Technology,Network security or virtual private network VPN management software,Security incident management software
+Technology,Network security or virtual private network VPN management software,Virtual local area network management software
+Technology,Network security or virtual private network VPN management software,Virtual private networking VPN software
+Technology,Network security or virtual private network VPN management software,Websense Data Loss Prevention
+Technology,Object or component oriented development software,Advanced business application programming ABAP
+Technology,Object or component oriented development software,Apache Groovy
+Technology,Object or component oriented development software,C#
+Technology,Object or component oriented development software,C++
+Technology,Object or component oriented development software,jQuery
+Technology,Object or component oriented development software,Microsoft ActiveX
+Technology,Object or component oriented development software,Oracle Java
+Technology,Object or component oriented development software,Perl
+Technology,Object or component oriented development software,Python
+Technology,Object or component oriented development software,Scala
+Technology,Object or component oriented development software,Swift
+Technology,Object oriented data base management software,Hibernate ORM
+Technology,Object oriented data base management software,PostgreSQL
+Technology,Office suite software,Microsoft Office software
+Technology,Operating system software,Apple macOS
+Technology,Operating system software,Bash
+Technology,Operating system software,Cisco IOS
+Technology,Operating system software,Google Android
+Technology,Operating system software,Hewlett Packard HP-UX
+Technology,Operating system software,IBM AIX
+Technology,Operating system software,Job control language JCL
+Technology,Operating system software,KornShell
+Technology,Operating system software,Linux
+Technology,Operating system software,Microsoft operating system
+Technology,Operating system software,Microsoft Windows
+Technology,Operating system software,Oracle Solaris
+Technology,Operating system software,Red Hat Enterprise Linux
+Technology,Operating system software,Shell script
+Technology,Operating system software,Simple mail transfer protocol SMTP
+Technology,Operating system software,Ubuntu
+Technology,Operating system software,UNIX
+Technology,Operating system software,UNIX Shell
+Technology,Optical network management software,
+Technology,Pattern design software,Diagramming software
+Technology,Portal server software,Apache HTTP Server
+Technology,Presentation software,Microsoft PowerPoint
+Technology,Process mapping and design software,Microsoft Visio
+Technology,Program testing software,Hewlett Packard LoadRunner
+Technology,Program testing software,JUnit
+Technology,Program testing software,Segue SilkPerformer
+Technology,Program testing software,Selenium
+Technology,Program testing software,System testing software
+Technology,Project management software,Atlassian Confluence
+Technology,Project management software,Microsoft Project
+Technology,Requirements analysis and system architecture software,Capacity planning software
+Technology,Requirements analysis and system architecture software,Network architecture design software
+Technology,Requirements analysis and system architecture software,Requirements management software
+Technology,Requirements analysis and system architecture software,Unified modeling language UML
+Technology,Spreadsheet software,Microsoft Excel
+Technology,Storage networking software,Amazon Simple Storage Service S3
+Technology,Storage networking software,Network storage software
+Technology,Storage networking software,Storage area network SAN software
+Technology,Storage networking software,Storage management software
+Technology,Switch or router software,Border Gateway Protocol BGP
+Technology,Switch or router software,Cisco Systems Cisco Web Cache Communication Protocol WCCP
+Technology,Switch or router software,Cisco Systems Gateway Load Balancing Protocol GLBP
+Technology,Switch or router software,Cisco Systems Hot Standby Router Protocol HSRP
+Technology,Switch or router software,Enhanced Interior Gateway Routing Protocol EIGRP
+Technology,Switch or router software,Intermediate System to Intermediate System IS-IS
+Technology,Switch or router software,Transparent Interconnection of Lots of Links TRILL
+Technology,Switch or router software,Virtual Router Redundancy Protocol VRRP
+Technology,Time accounting software,Time reporting software
+Technology,Transaction security and virus protection software,CA eTrust
+Technology,Transaction security and virus protection software,Encryption software
+Technology,Transaction security and virus protection software,McAfee
+Technology,Transaction security and virus protection software,McAfee VirusScan
+Technology,Transaction security and virus protection software,NortonLifeLock cybersecurity software
+Technology,Transaction security and virus protection software,Packet filter software
+Technology,Transaction security and virus protection software,Penetration testing software
+Technology,Transaction security and virus protection software,Ping Identity
+Technology,Transaction security and virus protection software,Virus scanning software
+Technology,Transaction server software,Customer information control system CICS
+Technology,Video conferencing software,Cisco Webex
+Technology,Video conferencing software,Videoconferencing software
+Technology,Video creation and editing software,Adobe After Effects
+Technology,WAN switching software and firmware,Wide area network WAN software
+Technology,Web platform development software,AJAX
+Technology,Web platform development software,Apache Struts
+Technology,Web platform development software,Apache Tomcat
+Technology,Web platform development software,Cascading style sheets CSS
+Technology,Web platform development software,Django
+Technology,Web platform development software,Drupal
+Technology,Web platform development software,Dynamic hypertext markup language DHTML
+Technology,Web platform development software,Enterprise JavaBeans
+Technology,Web platform development software,Ext JS
+Technology,Web platform development software,Extensible hypertext markup language XHTML
+Technology,Web platform development software,Google Angular
+Technology,Web platform development software,Hypertext markup language HTML
+Technology,Web platform development software,JavaScript
+Technology,Web platform development software,JavaScript Object Notation JSON
+Technology,Web platform development software,LAMP Stack
+Technology,Web platform development software,Microsoft Active Server Pages ASP
+Technology,Web platform development software,Microsoft ASP.NET
+Technology,Web platform development software,Microsoft ASP.NET Core MVC
+Technology,Web platform development software,Node.js
+Technology,Web platform development software,Oracle JavaServer Pages JSP
+Technology,Web platform development software,PHP
+Technology,Web platform development software,Ruby on Rails
+Technology,Web platform development software,Spring Framework
+Technology,Word processing software,Microsoft Word
